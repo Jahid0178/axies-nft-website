@@ -11,10 +11,12 @@ const Banner = () => {
               Discovery, and collect extraordinary{" "}
               <span className="small-text">Monster</span> NFTs
             </h1>
-            <p className="text-white text-lg mt-3">
+            <p className="text-center text-white text-lg mt-3 lg:text-left">
               Marketplace For Monster Character Collections Non Fungible Token
               NFTs
             </p>
+            <button className="btn-primary mt-5 font-bold">Explore</button>
+            <button className="btn-primary mt-5 ml-5 font-bold">Create</button>
           </div>
           <div className="flex-1">
             <img src={BannerImg} alt="Banner-Images" className="w-full" />
