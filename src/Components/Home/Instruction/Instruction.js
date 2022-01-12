@@ -18,7 +18,7 @@ const Instruction = () => {
           <h3 className="text-2xl font-bold mb-3">Set Up Your Wallet</h3>
           <p className="font-thin">
             Once you’ve set up your wallet of choice, connect it to OpenSeaby
-            clicking the NFT Marketplacein the top right corner.
+            clicking the NFT Marketplace in the top right corner.
           </p>
         </div>
         <div className="mx-2 text-center text-white">
