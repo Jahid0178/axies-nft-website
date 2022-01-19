@@ -32,4 +32,24 @@
     border: 2px solid #fff;
     transition: 0.3s;
   }
+
+  .wallet-btn {
+    width: 12rem;
+    height: 3rem;
+    border: 2px solid #5142FC;
+    border-radius: 5rem;
+  }
+
+  .wallet-btn:hover {
+    background-color: #fff;
+    color: #5142fc;
+    border-color: #fff;
+  }
+
+  .mode-btn {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 0.5rem;
+    background-color: #343444;
+  }
 }
