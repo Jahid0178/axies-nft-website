@@ -15,10 +15,10 @@ const Banner = () => {
               Marketplace For Monster Character Collections Non Fungible Token
               NFTs
             </p>
-            <button className="btn-primary mt-5 font-bold">
+            <button className="btn-primary mt-5 font-bold ease-linear duration-200">
               <i class="fas fa-rocket"></i> Explore
             </button>
-            <button className="btn-primary mt-5 ml-5 font-bold">
+            <button className="btn-primary mt-5 ml-5 font-bold ease-linear duration-200">
               <i class="far fa-file-alt"></i> Create
             </button>
           </div>

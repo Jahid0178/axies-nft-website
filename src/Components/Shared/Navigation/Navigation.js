@@ -32,7 +32,7 @@ const Navigation = () => {
           </NavLink>
         </div>
         <div>
-          <button className="wallet-btn font-medium mr-3">
+          <button className="wallet-btn font-medium mr-3 ease-linear duration-200">
             <i class="fas fa-wallet"></i> Wallet connect
           </button>
           <button className="mx-3 px-2 mode-btn">
